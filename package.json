@@ -1,0 +1,15 @@
+{
+  "name": "app store app",
+  "version": "0.0.1",
+  "main":"index.js",
+  "author":"sr test",
+  "description": "For test ",
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "dotenv": "latest",
+    "cookie": "latest",
+    "nonce" : "latest",
+    "request-promise": "latest"
+  }
+}
